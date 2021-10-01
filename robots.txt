@@ -1,0 +1,8 @@
+User-agent: Googlebot
+Disallow: /nogooglebot/
+
+User-agent: *
+Disallow: /wp-admin/
+Allow: /w-admin/admin-ajax.h
+
+Sitemap: https://debuter2zero.com/sitemap.xml
