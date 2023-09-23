@@ -1,7 +1,7 @@
 # bestagence
 
 * Informations sur le site :
-* Le nom du site du projet est "bestagence" mais il est hebergé actualement sous le nom "www.debuter2zero.com"
+* Le nom du site du projet est "bestagence" mais il est hebergé actualement sous le nom "www.studi4.flata-tech.com"
 
 * Le répertoire racine du site inclut :
 
